@@ -1,0 +1,20 @@
+[
+    {
+       "empid": 100,
+       "first_name": "Dan",
+       "last_name": "Levy",
+       "dept": "Finance"
+    },
+    {
+       "empid": 200,
+       "first_name": "Nina",
+       "last_name": "Riva",
+       "dept": "HR"
+    },
+    {
+       "empid": 300,
+       "first_name": "Evelyn",
+       "last_name": "Hugo",
+       "dept": "Data Science"
+    }
+   ]
